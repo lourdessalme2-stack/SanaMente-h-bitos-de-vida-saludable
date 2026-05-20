@@ -1,0 +1,1235 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>neo</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>20260520160439TE9K4E</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>20260520160439DNEUV2</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>4.0.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>Situación de Aprendizaje: SanaMente: hábitos de vida saludable</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>Lourdes Salguero Mejías</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_description</key>
+    <value>Situación de Aprendizaje para 4º de Educación Primaria centrada en hábitos de vida saludable, el uso de herramientas digitales y la evaluación competencial.</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>neo</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1779278689031</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-mpdzqxqm-a6pp6xiwx</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>PORTADA</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>PORTADA</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>PORTADA</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>PORTADA</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpdzqxqm-a6pp6xiwx</odePageId>
+      <odeBlockId>block-1779201851552-0jecvhdh0</odeBlockId>
+      <blockName>SANAMENTE: HÁBITOS SALUDABLES</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpdzqxqm-a6pp6xiwx</odePageId>
+          <odeBlockId>block-1779201851552-0jecvhdh0</odeBlockId>
+          <odeIdeviceId>idevice-1779201851549-8z3pqvavr</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>En esta Situación de Aprendizaje trabajaremos la importancia de los hábitos saludables a través de diferentes actividades relacionadas con la alimentación, el ejercicio físico y el bienestar emocional.</p>
+<p> <a href="https://www.canva.com/design/DAHH-sa1WAA/tv6t2RahZoB_NF0Xq6arew/edit" title="">Presentación SanaMente</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779201851549-8z3pqvavr","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>En esta Situación de Aprendizaje trabajaremos la importancia de los hábitos saludables a través de diferentes actividades relacionadas con la alimentación, el ejercicio físico y el bienestar emocional.</p>\n<p> <a href=\"https://www.canva.com/design/DAHH-sa1WAA/tv6t2RahZoB_NF0Xq6arew/edit\" title=\"\">Presentación SanaMente</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpdzqxqp-aqqr5l0no</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>¿QUÉ VAMOS A HACER?</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>¿QUÉ VAMOS A HACER?</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>¿QUÉ VAMOS A HACER?</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>¿QUÉ VAMOS A HACER?</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpdzqxqp-aqqr5l0no</odePageId>
+      <odeBlockId>block-1779201958728-xe29x6pzy</odeBlockId>
+      <blockName>¿QUÉ VAMOS A HACER?</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpdzqxqp-aqqr5l0no</odePageId>
+          <odeBlockId>block-1779201958728-xe29x6pzy</odeBlockId>
+          <odeIdeviceId>idevice-1779201958726-qivxos7eb</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Durante este proyecto vamos a trabajar en equipo para aprender qué son los hábitos saludables y cómo influyen en nuestra vida diaria.</p>
+<p>Al final, elaboraremos una infografía digital donde mostraremos todo lo aprendido sobre alimentación, ejercicio físico y bienestar emocional.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779201958726-qivxos7eb","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Durante este proyecto vamos a trabajar en equipo para aprender qué son los hábitos saludables y cómo influyen en nuestra vida diaria.</p>\n<p>Al final, elaboraremos una infografía digital donde mostraremos todo lo aprendido sobre alimentación, ejercicio físico y bienestar emocional.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpdzqxqp-9240qv8ko</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>PROTECCIÓN DE DATOS</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>PROTECCIÓN DE DATOS</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>PROTECCIÓN DE DATOS</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>PROTECCIÓN DE DATOS</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpdzqxqp-9240qv8ko</odePageId>
+      <odeBlockId>block-1779202025115-6nb08bcun</odeBlockId>
+      <blockName>PROTECCIÓN DE DATOS</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpdzqxqp-9240qv8ko</odePageId>
+          <odeBlockId>block-1779202025115-6nb08bcun</odeBlockId>
+          <odeIdeviceId>idevice-1779202025113-j4vngadq5</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Para trabajar con herramientas digitales es importante respetar algunas normas: No compartir datos personales Utilizar las herramientas de forma responsable Respetar a los compañeros No publicar imágenes sin permiso De esta forma, garantizamos un uso seguro y responsable de la tecnología.</p>
+<p>En el siguiente enlace se recoge la información dirigida al alumnado sobre la protección de datos personales y el uso responsable de las herramientas digitales:</p>
+<p> <a href="https://canva.link/mzvqsgvl2rxx2ad" title="">Protección de datos personales y uso de herramientas digitales</a></p>
+<p><br /></p>
+<p><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779202025113-j4vngadq5","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Para trabajar con herramientas digitales es importante respetar algunas normas: No compartir datos personales Utilizar las herramientas de forma responsable Respetar a los compañeros No publicar imágenes sin permiso De esta forma, garantizamos un uso seguro y responsable de la tecnología.</p>\n<p>En el siguiente enlace se recoge la información dirigida al alumnado sobre la protección de datos personales y el uso responsable de las herramientas digitales:</p>\n<p> <a href=\"https://canva.link/mzvqsgvl2rxx2ad\" title=\"\">Protección de datos personales y uso de herramientas digitales</a></p>\n<p><br /></p>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpdzqxqq-0f6xe8jy7</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>PRODUCTO FINAL</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>PRODUCTO FINAL</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>PRODUCTO FINAL</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>PRODUCTO FINAL</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpdzqxqq-0f6xe8jy7</odePageId>
+      <odeBlockId>block-1779202102370-4zg0307na</odeBlockId>
+      <blockName>PRODUCTO FINAL</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpdzqxqq-0f6xe8jy7</odePageId>
+          <odeBlockId>block-1779202102370-4zg0307na</odeBlockId>
+          <odeIdeviceId>idevice-1779202102368-zjvcn9oih</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>El producto final será la elaboración de una infografía digital sobre hábitos saludables, que incluirá un decálogo de hábitos de vida saludable y la representación de datos mediante un gráfico de barras.</p>
+<p>Deberá incluir:</p>
+<ul>
+<li>Información sobre alimentación saludable</li>
+<li>Importancia del ejercicio físico</li>
+<li>Bienestar emocional</li>
+<li>Representación visual de datos (gráfico de barras)</li>
+<li>Elementos visuales que faciliten la comprensión</li>
+</ul>
+<p><br />En la Situación de Aprendizaje “SanaMente”, dirigida a 4º de Educación Primaria, el alumnado elaborará este producto final utilizando como herramienta principal Canva, complementada con otras herramientas digitales como Kahoot y Edpuzzle durante el desarrollo del proyecto.</p>
+<p>La elección de Canva se debe a su versatilidad, ya que permite al alumnado crear contenidos visuales de forma sencilla e intuitiva, adaptándose a su nivel de competencia digital. Además, facilita tanto la elaboración del decálogo como la representación de datos mediante gráficos.</p>
+<p>En cuanto al contexto, se trata de una herramienta accesible desde distintos dispositivos y disponible en el entorno educativo del centro, lo que permite su uso tanto en el aula como en casa.</p>
+<p>Respecto a las características del alumnado, Canva resulta adecuada para 4º de Primaria, ya que presenta una interfaz visual sencilla, favorece la creatividad y permite el trabajo cooperativo. Además, ofrece plantillas que actúan como apoyo para el alumnado con mayores dificultades, favoreciendo la inclusión y la atención a la diversidad.</p>
+<p>Por último, el uso de estas herramientas digitales contribuye al desarrollo progresivo de la competencia digital del alumnado, fomentando un uso responsable de la tecnología para buscar información, crear contenidos y comunicar sus aprendizajes.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779202102368-zjvcn9oih","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>El producto final será la elaboración de una infografía digital sobre hábitos saludables, que incluirá un decálogo de hábitos de vida saludable y la representación de datos mediante un gráfico de barras.</p>\n<p>Deberá incluir:</p>\n<ul>\n<li>Información sobre alimentación saludable</li>\n<li>Importancia del ejercicio físico</li>\n<li>Bienestar emocional</li>\n<li>Representación visual de datos (gráfico de barras)</li>\n<li>Elementos visuales que faciliten la comprensión</li>\n</ul>\n<p><br />En la Situación de Aprendizaje “SanaMente”, dirigida a 4º de Educación Primaria, el alumnado elaborará este producto final utilizando como herramienta principal Canva, complementada con otras herramientas digitales como Kahoot y Edpuzzle durante el desarrollo del proyecto.</p>\n<p>La elección de Canva se debe a su versatilidad, ya que permite al alumnado crear contenidos visuales de forma sencilla e intuitiva, adaptándose a su nivel de competencia digital. Además, facilita tanto la elaboración del decálogo como la representación de datos mediante gráficos.</p>\n<p>En cuanto al contexto, se trata de una herramienta accesible desde distintos dispositivos y disponible en el entorno educativo del centro, lo que permite su uso tanto en el aula como en casa.</p>\n<p>Respecto a las características del alumnado, Canva resulta adecuada para 4º de Primaria, ya que presenta una interfaz visual sencilla, favorece la creatividad y permite el trabajo cooperativo. Además, ofrece plantillas que actúan como apoyo para el alumnado con mayores dificultades, favoreciendo la inclusión y la atención a la diversidad.</p>\n<p>Por último, el uso de estas herramientas digitales contribuye al desarrollo progresivo de la competencia digital del alumnado, fomentando un uso responsable de la tecnología para buscar información, crear contenidos y comunicar sus aprendizajes.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpdzqxqq-tyvg0b6k7</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>ACTIVIDADES</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>ACTIVIDADES</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>ACTIVIDADES</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>ACTIVIDADES</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpdzqxqq-tyvg0b6k7</odePageId>
+      <odeBlockId>block-1779202174248-9muuq9a0x</odeBlockId>
+      <blockName>ACTIVIDADES</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpdzqxqq-tyvg0b6k7</odePageId>
+          <odeBlockId>block-1779202174248-9muuq9a0x</odeBlockId>
+          <odeIdeviceId>idevice-1779202174246-4iyq0o29c</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>A lo largo del proyecto realizaremos diferentes actividades:</p>
+<ul>
+<li>Actividad inicial: cuestionario sobre hábitos saludables</li>
+<li>Actividad de investigación: búsqueda de información</li>
+<li>Actividad de análisis: reflexión sobre hábitos</li>
+<li>Actividad final: creación de la infografía<br /></li>
+</ul>
+<p><br /></p>
+<p>Estas actividades nos ayudarán a comprender mejor cómo llevar una vida saludable. En el siguiente recurso se muestra la organización de las actividades a lo largo de la Situación de Aprendizaje:</p>
+<p> <img src="{{context_path}}/content/resources/mceclip0.jpg" /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779202174246-4iyq0o29c","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>A lo largo del proyecto realizaremos diferentes actividades:</p>\n<ul>\n<li>Actividad inicial: cuestionario sobre hábitos saludables</li>\n<li>Actividad de investigación: búsqueda de información</li>\n<li>Actividad de análisis: reflexión sobre hábitos</li>\n<li>Actividad final: creación de la infografía<br /></li>\n</ul>\n<p><br /></p>\n<p>Estas actividades nos ayudarán a comprender mejor cómo llevar una vida saludable. En el siguiente recurso se muestra la organización de las actividades a lo largo de la Situación de Aprendizaje:</p>\n<p> <img src=\"{{context_path}}/content/resources/mceclip0.jpg\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpdzqxqr-1nsg952f7</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>CRITERIOS DE EVALUACIÓN</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>CRITERIOS DE EVALUACIÓN</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>CRITERIOS DE EVALUACIÓN</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>CRITERIOS DE EVALUACIÓN</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpdzqxqr-1nsg952f7</odePageId>
+      <odeBlockId>block-1779202295547-ld307tm8i</odeBlockId>
+      <blockName>CRITERIOS DE EVALUACIÓN</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpdzqxqr-1nsg952f7</odePageId>
+          <odeBlockId>block-1779202295547-ld307tm8i</odeBlockId>
+          <odeIdeviceId>idevice-1779202295545-sdyim0f4f</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Para evaluar el trabajo se tendrán en cuenta los siguientes aspectos:</p>
+<ul>
+<li>Comprensión de los contenidos</li>
+<li>Organización de la información</li>
+<li>Presentación del producto</li>
+<li>Trabajo en equipo</li>
+<li>Uso de herramientas digitales</li>
+</ul>
+<p></p>
+<p><img src="{{context_path}}/content/resources/mceclip4.png" /></p>
+<p>  <br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779202295545-sdyim0f4f","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Para evaluar el trabajo se tendrán en cuenta los siguientes aspectos:</p>\n<ul>\n<li>Comprensión de los contenidos</li>\n<li>Organización de la información</li>\n<li>Presentación del producto</li>\n<li>Trabajo en equipo</li>\n<li>Uso de herramientas digitales</li>\n</ul>\n<p></p>\n<p><img src=\"{{context_path}}/content/resources/mceclip4.png\" /></p>\n<p>  <br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpdzqxqr-499duua0a</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>INSTRUMENTOS DE EVALUACIÓN</pageName>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>INSTRUMENTOS DE EVALUACIÓN</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>INSTRUMENTOS DE EVALUACIÓN</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>INSTRUMENTOS DE EVALUACIÓN</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpdzqxqr-499duua0a</odePageId>
+      <odeBlockId>block-1779202332070-scstkkxss</odeBlockId>
+      <blockName>INSTRUMENTOS DE EVALUACIÓN</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpdzqxqr-499duua0a</odePageId>
+          <odeBlockId>block-1779202332070-scstkkxss</odeBlockId>
+          <odeIdeviceId>idevice-1779202332067-k6rc5otnp</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Para evaluar el aprendizaje se utilizarán diferentes instrumentos:</p>
+<ul>
+<li>Rúbrica de evaluación: para valorar el producto final del alumnado.</li>
+<li>Diana de evaluación: como instrumento de autoevaluación del alumnado.</li>
+<li>Cuestionario digital: para conocer los conocimientos previos del grupo.<br /></li>
+</ul>
+<p>Estos instrumentos permiten obtener información variada del proceso de enseñanza-aprendizaje, favoreciendo una evaluación más completa y formativa mediante la triangulación de la información entre la evaluación docente, la autoevaluación del alumnado y los datos digitales.</p>
+<p></p>
+<p><img src="{{context_path}}/content/resources/mceclip2.png" /><img src="{{context_path}}/content/resources/mceclip3.png" /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779202332067-k6rc5otnp","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Para evaluar el aprendizaje se utilizarán diferentes instrumentos:</p>\n<ul>\n<li>Rúbrica de evaluación: para valorar el producto final del alumnado.</li>\n<li>Diana de evaluación: como instrumento de autoevaluación del alumnado.</li>\n<li>Cuestionario digital: para conocer los conocimientos previos del grupo.<br /></li>\n</ul>\n<p>Estos instrumentos permiten obtener información variada del proceso de enseñanza-aprendizaje, favoreciendo una evaluación más completa y formativa mediante la triangulación de la información entre la evaluación docente, la autoevaluación del alumnado y los datos digitales.</p>\n<p></p>\n<p><img src=\"{{context_path}}/content/resources/mceclip2.png\" /><img src=\"{{context_path}}/content/resources/mceclip3.png\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpdzqxqr-cy8lyhfwk</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>RECURSOS</pageName>
+  <odeNavStructureOrder>7</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>RECURSOS</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>RECURSOS</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>RECURSOS</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpdzqxqr-cy8lyhfwk</odePageId>
+      <odeBlockId>block-1779202372443-ae0to7cna</odeBlockId>
+      <blockName>RECURSOS Y HERRAMIENTAS DIGITALES</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpdzqxqr-cy8lyhfwk</odePageId>
+          <odeBlockId>block-1779202372443-ae0to7cna</odeBlockId>
+          <odeIdeviceId>idevice-1779202372441-zbdsg51ne</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Para el desarrollo de las actividades de la Situación de Aprendizaje se utilizarán diferentes recursos digitales que facilitan el acceso a la información, la creación de contenidos y la participación del alumnado.</p>
+<p><strong>🎨 Herramientas de creación</strong></p>
+<p>Canva ha sido la herramienta principal para la elaboración del producto final.</p>
+<p><br /></p>
+<p>📖 Recursos de información<br />Se han utilizado vídeos educativos y páginas web seleccionadas para la investigación guiada.</p>
+<p><a href="https://www.symbaloo.com/shared/AAAAA-omzsYAA41_W3QOlQ==" title="">Symbaloo</a></p>
+<p>🤝 Herramientas de participación y colaboración<br />Padlet se ha utilizado para la recogida de ideas y trabajo colaborativo.</p>
+<p><a href="https://padlet.com/lourdessalme2/recursos-para-sda-sanamente-inkxqvbn2r2vqs01" title="">Padlet</a></p>
+<p>Google Forms se ha utilizado para la evaluación inicial del alumnado.</p>
+<p><a href="https://docs.google.com/forms/d/e/1FAIpQLSenhG5Fm5ijiKf6eJMASMD4OCV3mzXN-Qy9zAY9RktwUe4mEQ/viewform" title="">Formulario ideas previas</a></p>
+<p>Estos recursos se integran a lo largo de las diferentes fases del proyecto, permitiendo al alumnado desarrollar la competencia digital de forma progresiva, fomentando un uso responsable, creativo y seguro de las tecnologías.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779202372441-zbdsg51ne","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Para el desarrollo de las actividades de la Situación de Aprendizaje se utilizarán diferentes recursos digitales que facilitan el acceso a la información, la creación de contenidos y la participación del alumnado.</p>\n<p><strong>🎨 Herramientas de creación</strong></p>\n<p>Canva ha sido la herramienta principal para la elaboración del producto final.</p>\n<p><br /></p>\n<p>📖 Recursos de información<br />Se han utilizado vídeos educativos y páginas web seleccionadas para la investigación guiada.</p>\n<p><a href=\"https://www.symbaloo.com/shared/AAAAA-omzsYAA41_W3QOlQ==\" title=\"\">Symbaloo</a></p>\n<p>🤝 Herramientas de participación y colaboración<br />Padlet se ha utilizado para la recogida de ideas y trabajo colaborativo.</p>\n<p><a href=\"https://padlet.com/lourdessalme2/recursos-para-sda-sanamente-inkxqvbn2r2vqs01\" title=\"\">Padlet</a></p>\n<p>Google Forms se ha utilizado para la evaluación inicial del alumnado.</p>\n<p><a href=\"https://docs.google.com/forms/d/e/1FAIpQLSenhG5Fm5ijiKf6eJMASMD4OCV3mzXN-Qy9zAY9RktwUe4mEQ/viewform\" title=\"\">Formulario ideas previas</a></p>\n<p>Estos recursos se integran a lo largo de las diferentes fases del proyecto, permitiendo al alumnado desarrollar la competencia digital de forma progresiva, fomentando un uso responsable, creativo y seguro de las tecnologías.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpdzqxqs-t5op1ij57</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>GUÍA DIDÁCTICA</pageName>
+  <odeNavStructureOrder>8</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>GUÍA DIDÁCTICA</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>GUÍA DIDÁCTICA</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>GUÍA DIDÁCTICA</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpdzqxqs-t5op1ij57</odePageId>
+      <odeBlockId>block-1779202400950-d74wgy5s0</odeBlockId>
+      <blockName>GUÍA DIDÁCTICA</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpdzqxqs-t5op1ij57</odePageId>
+          <odeBlockId>block-1779202400950-d74wgy5s0</odeBlockId>
+          <odeIdeviceId>idevice-1779202400949-w9ycssqj1</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Esta Situación de Aprendizaje está diseñada para el área de Conocimiento del Medio Natural, Social y Cultural en 4º de Educación Primaria, bajo el título “<strong>SanaMente: hábitos saludables”</strong>.</p>
+<p>El objetivo principal es que el alumnado adquiera hábitos de vida saludable a través de un aprendizaje activo, significativo y competencial, integrando el uso de herramientas digitales.</p>
+<p> <br /><strong>🎯 ENFOQUE METODOLÓGICO</strong><br />La propuesta se basa en metodologías activas, promoviendo el aprendizaje cooperativo, la investigación guiada y el uso de herramientas digitales.</p>
+<p>El alumnado será protagonista de su aprendizaje, construyendo conocimiento a partir de la exploración, la reflexión y la creación de productos digitales.</p>
+<p> <br /><strong>💻 USO DE TECNOLOGÍAS DIGITALES</strong><br />Se integran diferentes herramientas digitales a lo largo de la Situación de Aprendizaje:</p>
+<ul>
+<li>Google Forms para la evaluación inicial</li>
+<li>Padlet para la organización de ideas y trabajo colaborativo</li>
+<li>Canva para la creación del producto final</li>
+<li>Kahoot y Edpuzzle como apoyo interactivo</li>
+</ul>
+<p>Estas herramientas favorecen la competencia digital del alumnado y el aprendizaje activo.</p>
+<p> <br /><strong>🧩 ATENCIÓN A LA DIVERSIDAD (DUA)</strong><br />Se aplican los principios del Diseño Universal para el Aprendizaje (DUA):</p>
+<ul>
+<li>Múltiples formas de representación (textos, imágenes, vídeos)</li>
+<li>Múltiples formas de acción y expresión (infografía, trabajo cooperativo, herramientas digitales)</li>
+<li>Múltiples formas de implicación (motivación, elección de herramientas, trabajo en grupo)</li>
+</ul>
+<p>Además, se ofrecen apoyos visuales, plantillas guiadas y trabajo cooperativo para facilitar la participación de todo el alumnado.</p>
+<p> <br /><strong>📊 EVALUACIÓN</strong><br />La evaluación es continua, formativa y global, utilizando diferentes instrumentos:</p>
+<p>- Rúbrica de evaluación (docente)<br />- Diana de autoevaluación (alumnado)<br />- Cuestionario digital (Google Forms)<br /></p>
+<p>Esto permite la triangulación de la información para obtener una visión completa del proceso de aprendizaje.</p>
+<p> <br /><strong>🧠 RELACIÓN CON EL CURRÍCULO</strong><br />La Situación de Aprendizaje está vinculada con los criterios de evaluación del área de Conocimiento del Medio, especialmente aquellos relacionados con:</p>
+<ul style="list-style-type: circle;">
+<li>Hábitos de vida saludable</li>
+<li>Bienestar emocional<br /></li>
+<li>Uso responsable de la tecnología</li>
+<li>Trabajo cooperativo<br /><strong></strong><strong></strong><strong></strong></li>
+</ul>
+<p><strong>📌 OBSERVACIONES DIDÁCTICAS</strong></p>
+<p>Se recomienda adaptar el ritmo de las sesiones según las necesidades del grupo, fomentando siempre la participación activa del alumnado y el uso responsable de las tecnologías digitales.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779202400949-w9ycssqj1","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Esta Situación de Aprendizaje está diseñada para el área de Conocimiento del Medio Natural, Social y Cultural en 4º de Educación Primaria, bajo el título “<strong>SanaMente: hábitos saludables”</strong>.</p>\n<p>El objetivo principal es que el alumnado adquiera hábitos de vida saludable a través de un aprendizaje activo, significativo y competencial, integrando el uso de herramientas digitales.</p>\n<p> <br /><strong>🎯 ENFOQUE METODOLÓGICO</strong><br />La propuesta se basa en metodologías activas, promoviendo el aprendizaje cooperativo, la investigación guiada y el uso de herramientas digitales.</p>\n<p>El alumnado será protagonista de su aprendizaje, construyendo conocimiento a partir de la exploración, la reflexión y la creación de productos digitales.</p>\n<p> <br /><strong>💻 USO DE TECNOLOGÍAS DIGITALES</strong><br />Se integran diferentes herramientas digitales a lo largo de la Situación de Aprendizaje:</p>\n<ul>\n<li>Google Forms para la evaluación inicial</li>\n<li>Padlet para la organización de ideas y trabajo colaborativo</li>\n<li>Canva para la creación del producto final</li>\n<li>Kahoot y Edpuzzle como apoyo interactivo</li>\n</ul>\n<p>Estas herramientas favorecen la competencia digital del alumnado y el aprendizaje activo.</p>\n<p> <br /><strong>🧩 ATENCIÓN A LA DIVERSIDAD (DUA)</strong><br />Se aplican los principios del Diseño Universal para el Aprendizaje (DUA):</p>\n<ul>\n<li>Múltiples formas de representación (textos, imágenes, vídeos)</li>\n<li>Múltiples formas de acción y expresión (infografía, trabajo cooperativo, herramientas digitales)</li>\n<li>Múltiples formas de implicación (motivación, elección de herramientas, trabajo en grupo)</li>\n</ul>\n<p>Además, se ofrecen apoyos visuales, plantillas guiadas y trabajo cooperativo para facilitar la participación de todo el alumnado.</p>\n<p> <br /><strong>📊 EVALUACIÓN</strong><br />La evaluación es continua, formativa y global, utilizando diferentes instrumentos:</p>\n<p>- Rúbrica de evaluación (docente)<br />- Diana de autoevaluación (alumnado)<br />- Cuestionario digital (Google Forms)<br /></p>\n<p>Esto permite la triangulación de la información para obtener una visión completa del proceso de aprendizaje.</p>\n<p> <br /><strong>🧠 RELACIÓN CON EL CURRÍCULO</strong><br />La Situación de Aprendizaje está vinculada con los criterios de evaluación del área de Conocimiento del Medio, especialmente aquellos relacionados con:</p>\n<ul style=\"list-style-type: circle;\">\n<li>Hábitos de vida saludable</li>\n<li>Bienestar emocional<br /></li>\n<li>Uso responsable de la tecnología</li>\n<li>Trabajo cooperativo<br /><strong></strong><strong></strong><strong></strong></li>\n</ul>\n<p><strong>📌 OBSERVACIONES DIDÁCTICAS</strong></p>\n<p>Se recomienda adaptar el ritmo de las sesiones según las necesidades del grupo, fomentando siempre la participación activa del alumnado y el uso responsable de las tecnologías digitales.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpdzqxqs-4flz1peaq</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>CRÉDITOS</pageName>
+  <odeNavStructureOrder>9</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>CRÉDITOS</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>CRÉDITOS</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>CRÉDITOS</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpdzqxqs-4flz1peaq</odePageId>
+      <odeBlockId>block-1779205468467-marnhyv9a</odeBlockId>
+      <blockName>CRÉDITOS</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mpdzqxqs-4flz1peaq</odePageId>
+      <odeBlockId>block-1779278631532-09979kl9l</odeBlockId>
+      <blockName>Descargar el archivo fuente</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpdzqxqs-4flz1peaq</odePageId>
+          <odeBlockId>block-1779278631532-09979kl9l</odeBlockId>
+          <odeIdeviceId>idevice-1779278631524-fxu9h9tzi</odeIdeviceId>
+          <odeIdeviceTypeName>download-source-file</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-download-package-instructions"><table class="exe-table exe-package-info" style="width: 93.6351%;"><caption>Información general sobre este recurso educativo</caption>
+<tbody>
+<tr>
+<th style="width: 24.7372%;">Título</th>
+<td class="mceNonEditable exe-prop-locked" style="width: 75.2371%;"><span class="exe-prop-title">Situación de Aprendizaje: SanaMente</span></td>
+</tr>
+<tr>
+<th style="width: 24.7372%;">Descripción</th>
+<td class="mceNonEditable exe-prop-locked" style="width: 75.2371%;"><span class="exe-prop-description">-</span></td>
+</tr>
+<tr>
+<th style="width: 24.7372%;">Autoría</th>
+<td class="mceNonEditable exe-prop-locked" style="width: 75.2371%;"><span class="exe-prop-author">Lourdes Salguero Mejías</span></td>
+</tr>
+<tr>
+<th style="width: 24.7372%;">Licencia</th>
+<td class="mceNonEditable exe-prop-locked" style="width: 75.2371%;"><span class="exe-prop-license">creative commons: attribution - share alike 4.0</span></td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;">Este contenido fue creado con <a href="https://exelearning.net/">eXeLearning</a>, el editor libre y de fuente abierta diseñado para crear recursos educativos.</p></div><p class="exe-download-package-link"><a download="exe-package:elp-name" href="exe-package:elp" style="background-color:#107275;color:#ffffff;">Descargar el archivo .elpx</a></p>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
